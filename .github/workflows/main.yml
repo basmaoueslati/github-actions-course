@@ -2,7 +2,7 @@
 
 name: manual-input-workflow 
 
-# Controls when the workflow will runnn
+# Controls when the workflow will run
 on:
   workflow_dispatch:
     inputs:
